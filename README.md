@@ -1,4 +1,4 @@
-# dmoney-api-jmx
+# Java-Quiz-Project-Using-JSON
 
 ## Technology and Tool Used
 - Intellij IDEA
