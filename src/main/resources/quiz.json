@@ -1,0 +1,258 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is white-box testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Reducing software development costs",
+    "option 4": "Maximizing profits for the development team",
+    "question": "Which of the following is NOT a primary goal of software quality assurance?",
+    "option 1": "Improving software processes",
+    "option 2": "Ensuring the software meets customer requirements"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To allocate resources for marketing the software",
+    "option 4": "To prioritize bug fixes in the software",
+    "question": "What is the main purpose of a test plan in software quality assurance?",
+    "option 1": "To outline the schedule for software development",
+    "option 2": "To identify the test cases and procedures for testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Regression testing",
+    "option 4": "Exploratory testing",
+    "question": "Which testing technique involves executing the software with the intent of finding defects?",
+    "option 1": "Black-box testing",
+    "option 2": "White-box testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To estimate the cost of software maintenance",
+    "option 4": "To document the software requirements",
+    "question": "What is the purpose of a code review in software development?",
+    "option 1": "To evaluate the performance of the software",
+    "option 2": "To identify bugs and defects in the code"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Defect arrival rate",
+    "option 4": "Defect tracking",
+    "question": "Which metric measures the number of defects discovered per unit of time during testing?",
+    "option 1": "Defect density",
+    "option 2": "Defect removal efficiency"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Implementation",
+    "option 4": "Testing",
+    "question": "Which phase of the software development life cycle typically involves static testing techniques?",
+    "option 1": "Requirements analysis",
+    "option 2": "Design"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To monitor the performance of the testing team",
+    "option 4": "To prioritize software features",
+    "question": "What is the purpose of a traceability matrix in software testing?",
+    "option 1": "To track the status of software defects",
+    "option 2": "To trace the requirements to test cases"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "System testing",
+    "option 4": "Acceptance testing",
+    "question": "Which type of testing evaluates the software's functionality from end-to-end?",
+    "option 1": "Unit testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "International Standards Organization",
+    "option 4": "Information Systems Optimization",
+    "question": "What does the acronym \"ISO\" stand for in the context of software quality standards?",
+    "option 1": "International Software Organization",
+    "option 2": "Integrated Software Operations"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Performance testing",
+    "option 4": "Scalability testing",
+    "question": "Which type of software testing checks whether the software can handle a large volume of data?",
+    "option 1": "Stress testing",
+    "option 2": "Load testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To optimize the software's performance",
+    "option 4": "To prioritize software requirements",
+    "question": "What is the primary purpose of configuration management in software quality assurance?",
+    "option 1": "To manage the hardware components of the software",
+    "option 2": "To control changes to software artifacts throughout the development lifecycle"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Unit testing",
+    "option 4": "Acceptance testing",
+    "question": "Which testing technique focuses on testing individual components or modules of the software?",
+    "option 1": "Integration testing",
+    "option 2": "System testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To measure the software's performance under high loads",
+    "option 4": "To identify security vulnerabilities in the software",
+    "question": "What is the main goal of usability testing in software quality assurance?",
+    "option 1": "To ensure the software's compliance with industry regulations",
+    "option 2": "To evaluate the software's user interface and overall user experience"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Scripted testing",
+    "option 4": "Exploratory testing",
+    "question": "Which type of software testing involves executing predefined sequences of user interactions with the software?",
+    "option 1": "Random testing",
+    "option 2": "Ad hoc testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "To monitor the performance of the testing team",
+    "option 4": "To track and manage reported defects throughout their lifecycle",
+    "question": "What is the purpose of a defect tracking system in software quality assurance?",
+    "option 1": "To prioritize software features",
+    "option 2": "To manage communication between development teams"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Resilience testing",
+    "option 4": "Robustness testing",
+    "question": "Which type of testing evaluates the software's ability to recover from failures?",
+    "option 1": "Recovery testing",
+    "option 2": "Reliability testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Variation",
+    "option 4": "Verification and Validation",
+    "question": "What does the \"V\" in the V-model of software development represent?",
+    "option 1": "Verification",
+    "option 2": "Validation"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Gamma testing",
+    "option 4": "Delta testing",
+    "question": "Which type of testing is typically performed by end-users in a production-like environment?",
+    "option 1": "Alpha testing",
+    "option 2": "Beta testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "To assess the software's response to increasing loads beyond its capacity",
+    "option 4": "To identify security vulnerabilities in the software",
+    "question": "What is the purpose of stress testing in software quality assurance?",
+    "option 1": "To evaluate the software's performance under normal conditions",
+    "option 2": "To measure the software's ability to handle unexpected inputs"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Defect leakage",
+    "option 4": "Defect arrival rate",
+    "question": "Which metric measures the percentage of defects discovered before software release?",
+    "option 1": "Defect density",
+    "option 2": "Defect removal efficiency"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Enhancing user experience",
+    "option 4": "Creating documentation",
+    "question": "What is the primary objective of software testing?",
+    "option 1": "Finding defects",
+    "option 2": "Improving performance"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Grey-box testing",
+    "option 4": "Clear-box testing",
+    "question": "Which testing technique involves testing the software's functionality without knowing its internal code structure?",
+    "option 1": "White-box testing",
+    "option 2": "Black-box testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Ensuring software stability after changes",
+    "option 4": "Evaluating user satisfaction",
+    "question": "What is the purpose of regression testing?",
+    "option 1": "Testing new features",
+    "option 2": "Identifying performance issues"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Stress testing",
+    "option 4": "Fuzz testing",
+    "question": "Which type of testing focuses on the software's behavior in response to varying inputs?",
+    "option 1": "Input testing",
+    "option 2": "Boundary testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Complete Implementation",
+    "option 4": "Comprehensive Inspection",
+    "question": "What does the acronym \"CI\" stand for in the context of software development?",
+    "option 1": "Continuous Integration",
+    "option 2": "Code Integration"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Security testing",
+    "option 4": "Compatibility testing",
+    "question": "Which type of testing checks if the software's functions operate according to specifications?",
+    "option 1": "Functional testing",
+    "option 2": "Performance testing"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "To evaluate user satisfaction",
+    "option 4": "To define conditions for testing",
+    "question": "What is the purpose of a test case in software testing?",
+    "option 1": "To document software requirements",
+    "option 2": "To identify defects in the software"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Performance testing",
+    "option 4": "Scalability testing",
+    "question": "Which testing technique involves evaluating the software's performance under expected user loads?",
+    "option 1": "Load testing",
+    "option 2": "Stress testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Identifying security vulnerabilities",
+    "option 4": "Optimizing software performance",
+    "question": "What is the main goal of acceptance testing?",
+    "option 1": "Ensuring software compatibility",
+    "option 2": "Validating user requirements"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Test coverage",
+    "option 4": "Test velocity",
+    "question": "Which metric measures the percentage of code lines covered by automated tests?",
+    "option 1": "Code coverage",
+    "option 2": "Test efficiency"
+  }
+]
