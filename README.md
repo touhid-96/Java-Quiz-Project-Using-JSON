@@ -1,4 +1,4 @@
-# Java-Quiz-Project-Using-JSON
+# Java Quiz Project Using JSON
 
 ## Technology and Tool Used
 - Intellij IDEA
